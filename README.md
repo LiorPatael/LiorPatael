@@ -6,7 +6,7 @@
 
 📫 How to reach me LiorPatael2@Gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiorPatael)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 
