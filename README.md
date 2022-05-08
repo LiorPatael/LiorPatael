@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **LiorPatael/LiorPatael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +8,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning **Java, Python, JavaScript and HTML.
 
 📫 How to reach me LiorPatael2@Gmail.com
+<!--
+
 -->
