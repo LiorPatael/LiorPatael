@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **Java, Python, JavaScript and HTML.
 
-📫 How to reach me LiorPatael2@Gmail.com
+📫 How to reach me - LiorPatael2@Gmail.com.
 
 
 
