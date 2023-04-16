@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my final project - "Cross view match" : we need to find the image that has been taken from UAV, in order to locate the location of the image.
+🔭 I’m currently working on my final project - "Second hand ticket sales application" : A web application that lets people post ads to sell tickets they own or to buy tickets from other people.
 
-🌱 On this days I'm learning CSS,HTML, Angular and Spring-Boot.
+🌱 On this days I'm learning about Angular and Spring-Boot.
 
-📫 How to reach me - LiorPatael2@Gmail.com.
+📫 How to reach me - LiorPatael2@Gmail.com | 052-3655-270.
 
 
 
